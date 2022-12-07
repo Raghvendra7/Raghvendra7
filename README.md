@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
-- 💬 Talk to me about Anything about tect 
+- 💬 Talk to me about Anything about tech 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/Raghvendra7?tab=repositories&q=&type=&language=swift&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
@@ -47,12 +47,17 @@
 </a>
 <br>
 
-
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/https://github.com/Raghvendra7?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![Metrics](https://github-readme-stats.vercel.app/api?username=raghvendra7&theme=gruvbox)
+<br>
+![Metrics](https://github-readme-stats.vercel.app/api/top-langs/?username=raghvendra7&theme=gruvbox)
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+ <br>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
